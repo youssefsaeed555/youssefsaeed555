@@ -18,6 +18,15 @@
             </strong>
         </p>
     </div>
+    # 📚 Frameworks and Libraries
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img align="left" src="https://img.shields.io/badge/javascript-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-mongoDB-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-MYSQl-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/-RESTful APIs-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/><br/><br/>
+
     <div align=center>
         <h1>Contribution Activity</h1>
         <img src="https://github-readme-stats.vercel.app/api?username=youssefsaeed555&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
