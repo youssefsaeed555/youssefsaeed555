@@ -17,7 +17,7 @@
         </p>
     </div>
     <div align=center>
-        <h1> 📚 Frameworks and Libraries</h1>
+        <h1> 📚 Frameworks and technologies</h1>
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img align="left" src="https://img.shields.io/badge/javascript-%23E0234E.svg?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -28,12 +28,9 @@
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=youssefsaeed555&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefsaeed555&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
+        <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=youssefsaeed555&show_icons=true&theme=gruvbox"/>
+        <img align="left" width="47%" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefsaeed555&layout=compact"/>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefsaeed555&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        <br>
-        <br>
+  
     </div>
 </div>
