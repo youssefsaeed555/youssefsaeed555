@@ -1,6 +1,5 @@
 <div>
-    <p align="center"><a href="https://github.com/youssefsaeed555"><img width="80%" alt="Hello, I'm youssef. A Backend (NodeJS) Developer
-" src="./assets/gh-readme-header.png" /></a></p>
+    <p align="center"><a href="https://github.com/youssefsaeed555"> <h1>Hello, I'm youssef. A Backend (NodeJS) Developer</h1></p>
     <div align=center>
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
