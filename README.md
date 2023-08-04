@@ -59,8 +59,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=youssefsaeed555&theme=react&include_all_commits=false" width="400">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefsaeed555&theme=react" width="400"><br/>
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefsaeed555&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefsaeed555&theme=react&include_all_commits=true&count_private=true"><br/>
 
 </div>
 <br>
