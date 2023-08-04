@@ -57,8 +57,8 @@
  <h1> <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width=50 height=50> GitHub Stats </h1>
  </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=youssefsaeed555&theme=react&hide_border=false&include_all_commits=false" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefsaeed555&theme=react&hide_border=false" width="400"><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=youssefsaeed555&theme=react&include_all_commits=false" width="400">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefsaeed555&theme=react" width="400"><br/>
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefsaeed555&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
